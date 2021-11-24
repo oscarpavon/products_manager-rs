@@ -1,0 +1,1 @@
+{"data":[{"name":"palillos","price":5000},{"name":"agregados","price":2000},{"name":"acai chocolate","price":15000},{"name":"acai vainiila","price":15000}]}
